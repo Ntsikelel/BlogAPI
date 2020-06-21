@@ -5,7 +5,7 @@
 
 > Initializing `npm install` to download all packages. <br>
 > Run project `npm run dev` with `terminal` *to test **Developer** mode* .<br>
-> Run project `npm run dev` with `terminal` *to test **Production** mode* .
+> Run project `npm run start` with `terminal` *to test **Production** mode* .
 > 
 ```const PORT = process.env.PORT || 3000;```
 
@@ -23,7 +23,7 @@
 >
 > 
 __Developers__ :smile: : [Ntsikelelo Metseeme](https://github.com/Ntsikelel/)  <br>
-[Twitter](https://twitter.com/ntsikimetseeme/)<br>
-[Website](https://ntsikimetseeme.netlify.app/)
+[Twitter](https://twitter.com/ntsikimetseeme/)<br><br>
+### Link  [Website](https://ntsikimetseeme.netlify.app/)
 
 
