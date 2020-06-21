@@ -1,4 +1,4 @@
-# Portfolio Website :copyright:
+# Blog post API :copyright:
 ### Ntsikelelo Metseeme 
 ##### A Software developer from South Africa Johannesburg Sandton 
 ###### This is an API that can be used to make a blog post Web App or social post conent Web App
