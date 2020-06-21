@@ -1,5 +1,5 @@
 # Portfolio Website :copyright:
-[### Ntsikelelo Metseeme] (https://)
+### Ntsikelelo Metseeme 
 ##### A Software developer from South Africa Johannesburg Sandton 
 ###### This is an API that can be used to make a blog post Web App or social post conent Web App
 
@@ -10,7 +10,7 @@
 ```const PORT = process.env.PORT || 3000;```
 
 # Technologies 
-- [x] Mongodb :+1: <br> 
+- [x] Mongodb <br> 
 - [x] Node js  <br>
 - [x] Express js  <br>
 
@@ -22,6 +22,6 @@
    * - [x] bcryptjs
 >
 > 
-__Developers__ :octocat: : [Ntsikelelo Metseeme](https://github.com/Ntsikelel/),[Twitter](https://twitter.com/ntsikimetseeme/) 
+__Developers__ :octocat: : [Ntsikelelo Metseeme](https://github.com/Ntsikelel/)    [Twitter](https://twitter.com/ntsikimetseeme/) 
 
 
